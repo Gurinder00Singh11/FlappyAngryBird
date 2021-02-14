@@ -4,4 +4,4 @@ I created this game using Simple and Fast Multimedia Library(SFML) and C++ in Vi
 
 It was my first time working with a graphics library, and I learned a lot and had fun during the process.
 
-I have also provided the code please take a look.
+I have also provided the code and a sample video showing game in action please take a look.
